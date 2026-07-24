@@ -1,4 +1,4 @@
-# Restaurant-Mnagement--application
+# Restaurant-Management--application
 Flask-based Restaurant Management System with admin and customer modules.
 # 🍽️ Restaurant Management System (Flask + MongoDB)
 
